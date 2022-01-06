@@ -87,6 +87,15 @@ m_PackageAssets:
         - 2.1.0-preview.5
         - 2.1.0-preview.6
         compatible:
+        - 1.9.0
+        - 1.10.2
+        - 1.11.2
+        - 1.12.5
+        - 1.13.5
+        - 1.14.1
+        - 1.14.4
+        - 1.14.7
+        - 1.15.1
         - 1.15.4
         - 1.15.7
         - 2.0.0-preview.6
@@ -99,7 +108,7 @@ m_PackageAssets:
         - 2.1.0-preview.3
         - 2.1.0-preview.5
         - 2.1.0-preview.6
-        verified: 1.15.7
+        verified: 1.9.0
       dependencies:
       - name: com.unity.nuget.newtonsoft-json
         version: 2.0.0
@@ -2841,4 +2850,4 @@ m_PackageAssets:
   m_LocalPackages:
     m_LocalFileStatus: []
 m_ProjectPath: C:/RepositorioGIT_LuisBejarano/Armageddon/Armageddon/Packages
-m_EditorVersion: 2020.3.24f1 (79c78de19888)
+m_EditorVersion: 2020.3.19f1 (68f137dc9bbe)
