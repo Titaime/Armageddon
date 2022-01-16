@@ -242,12 +242,13 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: 9ddab293e2a8af3499dac05f5fd6169c, type: 3}
 --- !u!4 &536899724 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 400000, guid: 9ddab293e2a8af3499dac05f5fd6169c, type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 536899723}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &536899725 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 100000, guid: 9ddab293e2a8af3499dac05f5fd6169c, type: 3}
+  m_CorrespondingSourceObject: {fileID: 100000, guid: 9ddab293e2a8af3499dac05f5fd6169c,
+    type: 3}
   m_PrefabInstance: {fileID: 536899723}
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &536899726
@@ -700,12 +701,13 @@ PrefabInstance:
   m_SourcePrefab: {fileID: 100100000, guid: d9808401c68af274a8edfbed3d1b53c7, type: 3}
 --- !u!4 &1440170001 stripped
 Transform:
-  m_CorrespondingSourceObject: {fileID: 400000, guid: d9808401c68af274a8edfbed3d1b53c7, type: 3}
+  m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 1440170000}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1440170002 stripped
 GameObject:
-  m_CorrespondingSourceObject: {fileID: 100000, guid: d9808401c68af274a8edfbed3d1b53c7, type: 3}
+  m_CorrespondingSourceObject: {fileID: 100000, guid: d9808401c68af274a8edfbed3d1b53c7,
+    type: 3}
   m_PrefabInstance: {fileID: 1440170000}
   m_PrefabAsset: {fileID: 0}
 --- !u!114 &1440170003
@@ -720,7 +722,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ba3de8f148548f49a44cac6f30dad11, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  projectile: {fileID: 5572467266248262140, guid: be76787c24df02d4d93c3b3d01fbf964, type: 3}
+  projectile: {fileID: 5572467266248262140, guid: be76787c24df02d4d93c3b3d01fbf964,
+    type: 3}
   velocidadProyectil: 3
   tiempodis: 3
 --- !u!65 &1440170004
@@ -760,7 +763,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1471062088}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 1.94, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 536899724}
