@@ -15,7 +15,19 @@ C:/Users/joseq/OneDrive/Documentos/GitHub/Armageddon/Armageddon
 -logFile
 Logs/AssetImportWorker29.log
 -srvPort
-58185
+63950
 Successfully changed project path to: C:/Users/joseq/OneDrive/Documentos/GitHub/Armageddon/Armageddon
 C:/Users/joseq/OneDrive/Documentos/GitHub/Armageddon/Armageddon
 Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 7143.69 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.19f1 (68f137dc9bbe)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.19f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/joseq/OneDrive/Documentos/GitHub/Armageddon/Armageddon/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) UHD Graphics 600 (ID=0x3185)
+    Vendor:   
+    VRAM:     1937 MB
+    Driver:   27.20.100.8853
