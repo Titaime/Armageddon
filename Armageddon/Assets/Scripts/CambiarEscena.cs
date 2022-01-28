@@ -23,7 +23,7 @@ public class CambiarEscena : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
-        Debug.Log("Hola mundo");
+        //Debug.Log("Hola mundo");
         SceneManager.LoadScene(NombreEscena);
     }
 }
